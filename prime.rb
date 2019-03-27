@@ -1,4 +1,5 @@
 def prime?(int)
-  if int 
+  if int >= 2 
+    
   
 
